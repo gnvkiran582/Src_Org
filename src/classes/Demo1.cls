@@ -1,8 +1,7 @@
 public Class Demo{
 
-    public static String demoMethod()
+    public static void demoMethod()
     {
         System.debug('Demo Method');
-        return 'Demo Method';
     }
 }
